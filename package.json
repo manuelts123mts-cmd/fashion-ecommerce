@@ -1,0 +1,19 @@
+{
+  "name": "mc-heart-of-a-warrior-phase-1",
+  "private": true,
+  "version": "1.1.0",
+  "description": "Homepage editorial y header sticky HTML/CSS/JS; Node solo se usa para pruebas.",
+  "scripts": {
+    "test:home": "node tests/home.spec.cjs",
+    "test:static": "node tests/static.spec.cjs",
+    "test:header": "node tests/sticky-header.spec.cjs && node tests/header-edges.spec.cjs",
+    "demo:header": "python3 scripts/build_header_demo.py && python3 scripts/build_header_demo.py --mock",
+    "test:hero": "node tests/hero.spec.cjs",
+    "test:hero:performance": "node tests/hero-performance.cjs",
+    "test:mobile-header": "node tests/mobile-header.spec.cjs && node tests/mobile-header-desktop.spec.cjs"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.13.0",
+    "playwright": "1.64.1"
+  }
+}

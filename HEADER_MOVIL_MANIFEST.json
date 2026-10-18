@@ -1,0 +1,91 @@
+{
+  "scope": "Solo header y categorías móviles, primera sección aprobada. Sin cambios de estructura ni JavaScript.",
+  "desktop": "15 vistas idénticas; 1024, 1440, 1920px con ratón.",
+  "outsideArchive": [
+    "tienda_portable.html",
+    "COMPARATIVA_HEADER_MOVIL.html",
+    "audits/mobile-header/after/"
+  ],
+  "files": [
+    {
+      "path": "LEEME_HEADER_MOVIL.md",
+      "bytes": 1764,
+      "sha256": "2d3c78d4757e8ffc7664d23b3d7bff9ea7031ee19285c35a3721468c4f5d872c"
+    },
+    {
+      "path": "HEADER_MOVIL.md",
+      "bytes": 20229,
+      "sha256": "a1f4d91b5b9c1096275324ec2b0e7a8c2b7cdddf68f48a871dcc3c421c3fb7fc"
+    },
+    {
+      "path": "src/styles/mobile-header.css",
+      "bytes": 9435,
+      "sha256": "fc97f21dc7e9b47fce1f941e79f8c3ddbd192315b903d5101ce0f3146148c868"
+    },
+    {
+      "path": "build_portables.py",
+      "bytes": 11576,
+      "sha256": "f19f60204352303d16937d7612ff9b63cd239ad1b55322a1880e3140c7ce7589"
+    },
+    {
+      "path": "package.json",
+      "bytes": 807,
+      "sha256": "cbd676180beebc7251e45edb4528648aad44959314874ab911c72aa4c0a7f465"
+    },
+    {
+      "path": "tests/mobile-header.spec.cjs",
+      "bytes": 14007,
+      "sha256": "516b67b6270cd748411a42aa09b43a706a15ddfbbc3d702aac47905637a08572"
+    },
+    {
+      "path": "tests/mobile-header-desktop.spec.cjs",
+      "bytes": 4037,
+      "sha256": "27103c6078d9ef9e3efaf07f58daf8a97f0f0eb66bb5ee5e5b44a825561839ce"
+    },
+    {
+      "path": "audits/mobile-header/capture-desktop.cjs",
+      "bytes": 3520,
+      "sha256": "9b5df30ce3d8f8489d580537e6f3666c1b9461ccd25ae86a6a2f56969bbf0744"
+    },
+    {
+      "path": "audits/mobile-header/verify-extras.cjs",
+      "bytes": 4671,
+      "sha256": "73f2c755892b36db35b84ecc580565ef8cf7cde5c6d5d629f151c25c3ab06487"
+    },
+    {
+      "path": "audits/mobile-header/results.json",
+      "bytes": 26911,
+      "sha256": "d1267b62c2a5b879368551dbe68f83b09720d33809a197dd8270805cef9cd29c"
+    },
+    {
+      "path": "audits/mobile-header/source-proof.json",
+      "bytes": 4203,
+      "sha256": "0539deae58a098272b3ebb928ee0ab5cb2572e75a5d63eba70fb515ef28bca11"
+    },
+    {
+      "path": "audits/mobile-header/css-scope.json",
+      "bytes": 3788,
+      "sha256": "f1e3a7b7045303f54c3a108901da1fe6a0272c0e464a61d9abd050969afd3962"
+    },
+    {
+      "path": "audits/mobile-header/desktop-comparison.json",
+      "bytes": 2861,
+      "sha256": "df9934d7baa687d229685bbbc90e27daf66d130e56d658be09638876beda9ece"
+    },
+    {
+      "path": "audits/mobile-header/desktop-live-comparison.json",
+      "bytes": 3201,
+      "sha256": "ce740c3fb4b473f8b6060593db54d190b5fbb76241c8fc4004fbbcca967db808"
+    },
+    {
+      "path": "audits/mobile-header/gestures-after.json",
+      "bytes": 301,
+      "sha256": "6cf49d6933716b5d10a12f0b8b728c4352c0adbc025015f6051230c73f0fd0f2"
+    },
+    {
+      "path": "audits/mobile-header/performance-after.json",
+      "bytes": 854,
+      "sha256": "60f7628adfb377b412a104a958cb561ed3f9bc4f1debf60e8a42e5d10acbeea2"
+    }
+  ]
+}
